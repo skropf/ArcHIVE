@@ -16,6 +16,10 @@ Setup of a material poetry exhibition piece (heating plate, arduino, beeswax, ul
 - 2x wooden frame
 - A, r, c letters in beeswax
 
+## Contributors
+- Alexander Wöran (Design, Art & Implementation)
+- Simon Kropf (Electronics & Programming)
+
 ## TODOs
 - make layout image
 - add explanation end exhibition text
